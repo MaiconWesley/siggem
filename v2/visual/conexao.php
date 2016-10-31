@@ -1,8 +1,8 @@
 <?php
-	$host 		= "mysql1.000webhost.com";
-	$usuario 	= "a6809292_siggem";
-	$senha 		= "es1699i14983010";
-	$banco 		= "a6809292_siggem";
+	$host 		= "LINK CONECTOR";
+	$usuario 	= "USUARIO";
+	$senha 		= "SENHA";
+	$banco 		= "BANCO";
 
 	$dbcon = new MySQLi("$host","$usuario","$senha","$banco");
 
